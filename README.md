@@ -12,6 +12,8 @@ Interface Segregation Principle
 
 Dependency Inversion Principle
 
+#
+
 ### Princípios de Orientação a Objetos
 
 Coesão: 
@@ -31,3 +33,4 @@ Acoplamento:
 3. Classes acopladas causam fragilidade no código da aplicação, o que dificulta sua manutenção.
 4. Algumas classes precisarão de outras, para que não tenham muitas responsabilidades. Cabe a nós medir quando faz sentido adicionar tal acoplamento com as dependências e como depender do que é seguro, ao invés de classes concretas.
 5. Devemos controlar o nível de acoplamento na nossa aplicação.
+
